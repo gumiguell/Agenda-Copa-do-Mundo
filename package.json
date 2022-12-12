@@ -1,0 +1,17 @@
+{
+    "name": "agenda_copadomundo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "Gustavo Miguel",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^6.7.3",
+        "nodemon": "^2.0.20"
+    }
+}
